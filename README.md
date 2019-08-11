@@ -10,4 +10,5 @@
 <h4>git config --global (core.editor user.name)</h4>||Define algo que será usado no git(credenciais,editor de texto...)</br>
 <h4>git checkout --</h4>||Apaga as alterações feitas no arquivo</br>
 <h4>git diff head~1</h4>||Compara commits</br>
-<h4>git revert (código do commit)||Desfaz a cagada
+<h4>git revert (código do commit)||</h4>Desfaz a cagada
+<h4>git reset (código do commit ou head~1) hard(apaga o commit da cagada)||</h4>Volta para o commit
