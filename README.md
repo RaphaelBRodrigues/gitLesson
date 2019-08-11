@@ -12,3 +12,4 @@
 <h4>git diff head~1</h4>||Compara commits</br>
 <h4>git revert (código do commit)||</h4>Desfaz a cagada
 <h4>git reset (código do commit ou head~1) hard(apaga o commit da cagada)||</h4>Volta para o commit
+<h4>git checkout (branch)feature</h4>||Muda de branch
