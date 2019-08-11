@@ -8,5 +8,6 @@
 <h4>git push (remote master)</h4>||Move os arquivos pra branch escolhida</br>
 <h4>git status </h4>||Checa o status dos arquivos</br>
 <h4>git config --global (core.editor user.name)</h4>||Define algo que será usado no git(credenciais,editor de texto...)</br>
-<h4>git checkout</h4>||Apaga as alterações feitas no arquivo</br>
+<h4>git checkout --</h4>||Apaga as alterações feitas no arquivo</br>
 <h4>git diff head~1</h4>||Compara commits</br>
+<h4>git revert (código do commit)||Desfaz a cagada
